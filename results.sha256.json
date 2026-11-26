@@ -1,5 +1,7 @@
 {
   "results/cohort_audit.csv": "61c2c095c146b04e30f2df74e8b878ddc3f84badda4693cc80d09a760d70a498",
   "results/fold_metrics.csv": "4a52284a97ab38fb7a951d1cb031c2a311c715351a170c9b72029e475a205097",
-  "results/generalization.png": "d76448fcbe456f129488d3b555b7a796c28f86942c369cf36c1f7553b4d7483f"
+  "results/generalization.png": "d76448fcbe456f129488d3b555b7a796c28f86942c369cf36c1f7553b4d7483f",
+  "results/paired_error_intervals.csv": "89d52f378e67abe5f6727b91095cc1ecb83ffc345af03c3a14bfe72726674f3b",
+  "results/random_holdout_diagnostic.csv": "f108aecde19e1ce287f5d4a0a5c6af0473cdd7be1161cd9a31ff28e44ef29965"
 }

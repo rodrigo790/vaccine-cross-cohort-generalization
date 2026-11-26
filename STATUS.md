@@ -7,3 +7,6 @@ Seven formulation-year groups supplied 365 PBMC participants. Mean held-out Spea
 Some held-out formulations have only eight or nine people. Seasonal formulations share antigenic backgrounds. The design addresses transfer across represented formulations; extension to other vaccine platforms remains open.
 
 [Repository and current commit history](https://github.com/rodrigo790/vaccine-cross-cohort-generalization/commits/main) · [Continuous integration](https://github.com/rodrigo790/vaccine-cross-cohort-generalization/actions)
+
+
+The random split places participants from ten studies on both sides. Paired error intervals resample held-out studies and people. A fold with one study estimates within-study variability only. See [paired intervals](results/paired_error_intervals.csv).

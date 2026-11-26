@@ -19,6 +19,7 @@ python -m pip install -r requirements.txt
 python -m unittest discover -v
 python verify.py
 python analysis.py
+python sensitivity.py
 ```
 
 The checksum command verifies the committed release. Reruns can change benchmark timings, compressed file timestamps and rendered graphics.
@@ -32,3 +33,6 @@ The checksum command verifies the committed release. Reruns can change benchmark
 - [Original data or method](https://doi.org/10.6084/m9.figshare.17096978)
 
 The MIT license covers repository code. Original datasets, model weights and structural coordinates retain the terms of their providers. Only aggregate results are redistributed here.
+
+
+The random split places participants from ten studies on both sides. Paired error intervals resample held-out studies and people. A fold with one study estimates within-study variability only. See [paired intervals](results/paired_error_intervals.csv).
