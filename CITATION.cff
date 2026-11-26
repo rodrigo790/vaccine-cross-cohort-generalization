@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this software and the original data."
+title: "Can baseline blood expression rank antibody responses to a held-out influenza formulation?"
+authors:
+  - family-names: Ventura Cruz
+    given-names: Rodrigo Salvador
+license: MIT
+repository-code: "https://github.com/rodrigo790/vaccine-cross-cohort-generalization"

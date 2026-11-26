@@ -1,0 +1,7 @@
+.cache/
+raw/
+__pycache__/
+.venv/
+.pytest_cache/
+work/
+.nextflow*
